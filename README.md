@@ -30,12 +30,6 @@ This is a fully responsive and interactive product showcase webpage for a Modern
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 - Design inspired by modern e-commerce product pages (Inspired by Love Babbar Web dev course project).
