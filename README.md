@@ -25,8 +25,9 @@ This is a fully responsive and interactive product showcase webpage for a Modern
 ## 📷 Screenshots
 
 
-![Screenshot 2025-07-06 140820](https://github.com/user-attachments/assets/a78f6de7-26a3-4561-b954-80217d28ac6b)
-![Screenshot 2025-07-06 140840](https://github.com/user-attachments/assets/b677b99b-5ec3-4d74-b296-aed0baa81a94)
+![Screenshot 1](https://github.com/user-attachments/assets/a78f6de7-26a3-4561-b954-80217d28ac6b)
+![Screenshot 2](https://github.com/user-attachments/assets/b677b99b-5ec3-4d74-b296-aed0baa81a94)
+![Screenshot 3](https://github.com/user-attachments/assets/b4babcce-2dd8-405b-9bd4-ada24bd66599)
 
 ---
 
